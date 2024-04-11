@@ -21,7 +21,7 @@
     {
       "identity" : "web3swift",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/zhangliugang/web3swift.git",
+      "location" : "https://github.com/AyushBherwani1998/web3swift.git",
       "state" : {
         "branch" : "userop",
         "revision" : "b65adc29130f93f5328032570f477ebb3ef43da4"
